@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 271 - Machine Problem 2
-Fall 2018
-
 main.cpp
 
 This is the driver for Machine Problem 2.  It simply performs various credit and debit
