@@ -2,7 +2,7 @@
 Ramamurthy Sundar
 main.cpp
 
-This is the driver for Machine Problem 2.  It simply performs various credit and debit
+This is the driver for the program.  It simply performs various credit and debit
 operations on a Savings and Checking account.  Exception handling is performed in the
 class definition itself.
 
