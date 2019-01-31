@@ -1,10 +1,5 @@
 /*
 Ramamurthy Sundar
-student id: 00667077
-netid: rsundar
-CPS 271 - Machine Problem 2
-Fall 2018
-
 class.cpp
 
 Implementation of classes defined in class.h.  See comments bellow for
